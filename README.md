@@ -1,10 +1,5 @@
 # rock-paper-scissors-
-# Its rock, paper, scissors mate its not rocket science
-
-
-
-
-
+Its rock, paper, scissors mate its not rocket science
 
 import random
 
